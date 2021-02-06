@@ -1,0 +1,16 @@
+{
+    "name": "vektor/vk-helpers",
+    "description": "WordPress Helpers",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Vektor,Inc.",
+            "email": "info@vektor-inc.co.jp"
+        }
+    ],
+    "scripts": {
+        "test": "phpunit"
+    },
+    "require": {}
+}
